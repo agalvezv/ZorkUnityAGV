@@ -1,0 +1,69 @@
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csprojAssemblyReference.cache
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.ZorkBuilder.resources
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.Properties.Resources.resources
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.GenerateResource.cache
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.CoreCompileInputs.cache
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe.config
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.pdb
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.dll
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.pdb
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.CopyComplete
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.exe
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.pdb
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.NeighborView.resources
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ca260782\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe.config
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.pdb
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.dll
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.pdb
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csprojAssemblyReference.cache
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.ZorkBuilder.resources
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.NeighborView.resources
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.Properties.Resources.resources
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.GenerateResource.cache
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.CopyComplete
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.exe
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.pdb
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.Fody.CopyLocal.cache
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csprojAssemblyReference.cache
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.ZorkBuilder.resources
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.NeighborView.resources
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.Properties.Resources.resources
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.GenerateResource.cache
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.exe
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.pdb
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe.config
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.pdb
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.dll
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.pdb
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.Fody.CopyLocal.cache
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.CopyComplete
+C:\Users\Carlton Ragsdale\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\GameViewModelFolder\GameViewModel.cs
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe.config
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.exe
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Builder.pdb
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.dll
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Zork.Common.pdb
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csprojAssemblyReference.cache
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.ZorkBuilder.resources
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.NeighborView.resources
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.Properties.Resources.resources
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.GenerateResource.cache
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.Fody.CopyLocal.cache
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.csproj.CopyComplete
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.exe
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.pdb
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\bin\Debug\ViewModels\GameViewModel.cs
+C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.FormsFolder.AddNewRoomForm.resources
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\bin\Debug\ViewModels\GameViewModel.cs
+D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Builder\obj\Debug\Zork.Builder.FormsFolder.AddNewRoomForm.resources

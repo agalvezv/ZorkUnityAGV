@@ -1,10 +1,10 @@
 */bin
 */obj
 .vs/
-Zork.Unity/Library
-Zork.Unity/Temp
-Zork.Unity/obj
-Zork.Unity/Logs
-Zork.Unity/Zork.Unity.sln
-Zork.Unity/Assembly-CSharp.csproj
-packages/
+Zork/Zork.Unity/Library
+Zork//Zork.Unity/Temp
+Zork/Zork.Unity/obj
+Zork/Zork.Unity/Logs
+Zork/Zork.Unity/Zork.Unity.sln
+Zork/Zork.Unity/Assembly-CSharp.csproj
+Zork/packages/
